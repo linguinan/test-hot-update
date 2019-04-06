@@ -1,5 +1,5 @@
-StreamingAssets|7875de6d667d1cf9bffda814be5fd5f0
-StreamingAssets.manifest|d46d1b77239e47550fda7158f88e5fc6
+StreamingAssets|c5b319395f019c419addb89775020f7a
+StreamingAssets.manifest|18ccf6a0ad4f7fed81df006b5f360a1b
 message.unity3d|97e9231fa338c44f829e6d79c3a0872d
 message.unity3d.manifest|4efdb5ea93e1bff3e3087adf1596ad9c
 prompt.unity3d|6cd71c5958531e8a699ba6c45d18195a
@@ -11,8 +11,8 @@ shared_asset.unity3d.manifest|f22cd21a398c9f926deb88dd0feac5ba
 tank.unity3d|afd707897878e8709c2dcc0edbba2b0d
 tank.unity3d.manifest|3213d206632f488cd4d6063dc2a83053
 lua/Build.bat|4cfc2f258ecdb9bb43756a2e737c7a1d
-lua/lua.unity3d|eb4b1f9cf6d531a55e473c6c8178c367
-lua/lua.unity3d.manifest|804ba25e2a9e5e13b67dee4269c489fa
+lua/lua.unity3d|55a38e475e2435c05a8f4d1cf0278742
+lua/lua.unity3d.manifest|e7ff8ba59db4272b1957ca489f4a70a0
 lua/lua_3rd_cjson.unity3d|1f85cabc8c91322a58f32d994d1ca5af
 lua/lua_3rd_cjson.unity3d.manifest|3b0b8ab389b937e13e34e308ec672341
 lua/lua_3rd_luabitop.unity3d|f13188e1b3abf777262b56a56617ce7b
