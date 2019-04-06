@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 2898166951
+CRC: 3081318053
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -76,4 +76,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_23:
       Name: shared_asset.unity3d
+      Dependencies: {}
+    Info_24:
+      Name: tank.unity3d
       Dependencies: {}
